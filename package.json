@@ -101,7 +101,7 @@
     "name": "Layout",
     "title": "自然布局",
     "category": "Information",
-    "materialSchema": "https://unpkg.alibaba-inc.com/@alifd/layout@2.2.3/build/lowcode/assets-prod.json"
+    "materialSchema": "https://unpkg.alibaba-inc.com/@alifd/layout@2.4.1/build/lowcode/assets-prod.json"
   },
   "publishConfig": {
     "access": "public"
